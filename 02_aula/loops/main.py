@@ -31,7 +31,7 @@ while num_par <= 50:
     if num_par % 2 == 0:
         print(num_par)
     num_par+=1
+
+print("----------------------")
+
 # while
-
-
-# for
